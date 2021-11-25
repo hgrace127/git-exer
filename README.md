@@ -12,3 +12,6 @@ Country와 함께하는 Git 교실
 
 
 - rebase fest/forward
+
+
+- master - rebase auto merge
