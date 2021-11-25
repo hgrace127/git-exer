@@ -1,4 +1,6 @@
 Country와 함께하는 Git 교실
+- feature/c auto merge
+
 
 - pop 테스트
 - pull 테스트
