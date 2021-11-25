@@ -21,3 +21,5 @@ Country와 함께하는 Git 교실
 
 
 - master - rebase auto merge
+
+- pr 실습
